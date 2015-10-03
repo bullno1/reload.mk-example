@@ -1,0 +1,8 @@
+*.plt
+/.erlang.mk
+/_rel
+/relx
+/elvis
+/*.d
+/ebin
+/deps
